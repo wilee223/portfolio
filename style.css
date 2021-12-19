@@ -1,0 +1,155 @@
+header{
+  background-color: #3454D1;
+}
+
+footer{
+  background-color: #3454D1
+}
+
+header h1{
+  color: #ffffff;
+}
+
+header h2, footer h4{
+  color: #ffffff;
+}
+
+div{
+  padding: 32px
+  
+}
+
+body{
+background-color: #2DC2BD
+}
+
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 52px;
+  color: #5E5B52;
+
+  font-style: normal;
+  font-weight: 400; /* 400 or 700 available */
+  letter-spacing: 0px;
+  line-height: 100%;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+
+  padding: 32px 0px 0px 0px
+}
+
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  color: #5E5B52;
+
+  font-style: normal;
+  font-weight: 400; /* 400 or 700 available */
+  letter-spacing: 0px;
+  line-height: 100%;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+
+  padding: 0px 0px 32px 0px
+}
+
+nav{
+  background-color: #ffffff;
+  border: 1px solid #978897;
+  padding: 10px;
+  margin: 0px 0px 0px 0px;
+
+  color: #978897;
+  text-align: center;
+  text-transform: uppercase;
+
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+}
+
+h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 36px;
+  color: #ffffff;
+
+  font-style: normal;
+  font-weight: 400; /* 400 or 700 available */
+  letter-spacing: 0px;
+  line-height: 100%;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  color: #ffffff;
+
+  font-style: normal;
+  font-weight: 400; /* 400 or 700 available */
+  letter-spacing: 0px;
+  line-height: 100%;
+  text-align: left;
+  text-decoration: none;
+  text-transform: none;
+
+  padding: 0px 20% 0px 20%
+}
+
+li {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  color: #ffffff;
+
+  font-style: normal;
+  font-weight: 400; /* 400 or 700 available */
+  letter-spacing: 0px;
+  line-height: 100%;
+  text-align: left;
+  text-decoration: none;
+  text-transform: none;
+
+  list-style-position: inside;
+  padding: 0px 20% 0px 20%;
+}
+
+h4 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  color: #ffffff;
+
+  font-style: normal;
+  font-weight: 400; /* 400 or 700 available */
+  letter-spacing: 0px;
+  line-height: 100%;
+  text-align: center;
+  text-decoration: none;
+  text-transform: none;
+}
+
+
+/* square selfie image rounded into circle*/
+
+.selfie {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+
+  border-radius: 50%
+}
+
+
+/* Google Maps of Harrisburg*/
+
+.google-maps{
+  border-radius: 10px;
+  width: 80%;
+  height: 80%;
+  margin: auto;
+  align-content: auto;
+}

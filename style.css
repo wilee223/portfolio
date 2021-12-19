@@ -147,6 +147,7 @@ h4 {
 /* Google Maps of Harrisburg*/
 
 .google-maps{
+  display: block;
   border-radius: 10px;
   width: 80%;
   height: 80%;

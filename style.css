@@ -98,6 +98,7 @@ p {
   padding: 0px 20% 0px 20%
 }
 
+
 li {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 18px;
@@ -114,6 +115,7 @@ li {
   list-style-position: inside;
   padding: 0px 20% 0px 20%;
 }
+
 
 h4 {
   font-family: Arial, Helvetica, sans-serif;
@@ -153,6 +155,19 @@ h4 {
   height: 100%;
   margin: auto;
   align-content: auto;
+}
+
+/*contact*/
+.contact{
+  background-color: #125997;
+  border: 10px solid #FFC107;
+  padding: 20px;
+  margin: 0px 0px 0px 0px;
+  border-radius: 10%
+}
+
+.white-font{
+  color: #FFFFFF;
 }
 
 

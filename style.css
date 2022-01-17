@@ -1,9 +1,9 @@
 header{
-  background-color: #1E88E5;
+  background-color: #125997;
 }
 
 footer{
-  background-color: #1E88E5;
+  background-color: #125997;
   padding: 5px;
 }
 
@@ -54,7 +54,7 @@ h2 {
 }
 
 nav{
-  background-color: #1E88E5;
+  background-color: #125997;
   border: 10px solid #FFC107;
   padding: 20px;
   margin: 0px 0px 0px 0px;
@@ -71,7 +71,7 @@ nav{
 h3 {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 36px;
-  color: #ffffff;
+  color: #0B365B;
 
   font-style: normal;
   font-weight: bolder;
@@ -85,7 +85,7 @@ h3 {
 p {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 18px;
-  color: #ffffff;
+  color: #0B365B;
 
   font-style: normal;
   font-weight: bold;
@@ -101,7 +101,7 @@ p {
 li {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 18px;
-  color: #ffffff;
+  color: #0B365B;
 
   font-style: normal;
   font-weight: bold;
@@ -128,6 +128,8 @@ h4 {
   text-decoration: none;
   text-transform: none;
 }
+/*contact Will Lee*/
+
 
 
 /* square selfie image rounded into circle*/
@@ -155,7 +157,6 @@ h4 {
 
 
 /*psuedo-codes for links*/
-
 a {
   font-family: Arial, sans-serif;
   font-size: 20px;
